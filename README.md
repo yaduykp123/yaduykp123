@@ -51,7 +51,7 @@ Full-stack MERN application enabling users and vendors to trade near-expiry prod
 ---
 
 ### 🛒 [Shoply](#) — Full Stack E-Commerce Platform
-*[Live Demo](#) · [Frontend Repo](#) · [Backend Repo](#)*
+*[Live Demo](https://e-commerce-app-shoply-git-master-yaduykp123s-projects.vercel.app/) · [Frontend Repo](#) · [Backend Repo](#)*
 
 Full-stack e-commerce system with distinct Admin and User roles for managing products, cart, wishlist, and orders.
 
