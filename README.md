@@ -119,7 +119,7 @@ Full-stack e-commerce system with distinct Admin and User roles for managing pro
 
 ![Yadu's GitHub stats](https://github-stats-extended.vercel.app/api?username=yaduykp123&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yaduykp123)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yaduykp123)](https://github.com/yaduykp123)
 
 </div>
 
