@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Yadu Krishnan P 👋
 
-### [Your Title, e.g. "Frontend Developer" or "MERN Stack Developer"]
+### Full Stack Developer · MERN Stack Developer
 
-Building [what you build] — from responsive interfaces to full-stack apps.
+Building secure, scalable, production-ready full-stack applications — from responsive interfaces to REST APIs, real-time features, and payment integrations.
 
-[![Email](https://img.shields.io/badge/Email-your.email@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yaduykp123@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:yaduykp123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-yaduykp123-181717?style=flat&logo=github&logoColor=white)](https://github.com/yaduykp123)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaduykp123&color=blue)
@@ -18,51 +19,49 @@ Building [what you build] — from responsive interfaces to full-stack apps.
 
 ## 👤 About Me
 
-I'm a [experience level, e.g. "aspiring"] [role] working on [what you build] using [main stack, e.g. React and JavaScript].
+I'm a Full Stack Developer currently working as a **MERN Stack Developer at Bridgeon Solutions LLP** (Jan 2026 – Present), building production-ready full-stack web applications using React.js, Redux Toolkit, Node.js, Express.js, and MongoDB.
 
-- 🔭 Currently building **[current project name]**
-- 🌱 Learning [Skill 1], [Skill 2], [Skill 3]
-- 💬 Ask me about [Topic 1], [Topic 2]
-- 📫 Reach me at **your.email@gmail.com**
+I'm skilled in crafting scalable RESTful APIs, role-based access control (RBAC), real-time Socket.io notifications, Razorpay payment processing, and advanced state management — focused on writing clean, maintainable code and shipping complete solutions.
+
+- 🔭 Currently building **expireOFF** — a food waste prevention e-commerce platform
+- 🌱 Learning Next.js App Router patterns and system design at scale
+- 💬 Ask me about JWT auth & RBAC, Razorpay integration, or Socket.io real-time features
+- 📫 Reach me at **yaduykp123@gmail.com**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 [Bank-App](https://github.com/yaduykp123/Bank-App)
-[One-line description — what does the app let a user do? e.g. simulated banking UI with account/transaction views.]
+### 🥗 [expireOFF](#) — Food Waste Prevention E-Commerce Platform
+*[Frontend Repo](#) · [Backend Repo](#)*
 
-`HTML` `CSS` `JavaScript`
+Full-stack MERN application enabling users and vendors to trade near-expiry products to curb food waste.
 
----
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Cloudinary` `Socket.io`
 
-### 💼 [PORT-FOLIO](https://github.com/yaduykp123/PORT-FOLIO)
-Personal portfolio site showcasing projects and skills.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🔄 [Fetch-data](https://github.com/yaduykp123/Fetch-data)
-Fetches and displays data from an API using React.
-
-`React` `JavaScript`
+**Highlights:**
+- Secure JWT authentication with refresh tokens, protected routes, and Axios interceptors
+- Role-based access control (RBAC) for users and vendors
+- Razorpay payment gateway integration
+- Automated email reminders via Cron Jobs & Nodemailer
+- Real-time Socket.io notifications
+- Location-based product discovery and Cloudinary media uploads
+- Cart management and order processing APIs
 
 ---
 
-### 🎨 [Change-Background-Color](https://github.com/yaduykp123/Change-Background-Color)
-React app with a "Switch Theme" button that toggles the background between light and dark mode.
+### 🛒 [Shoply](#) — Full Stack E-Commerce Platform
+*[Live Demo](#) · [Frontend Repo](#) · [Backend Repo](#)*
 
-`React` `JavaScript`
+Full-stack e-commerce system with distinct Admin and User roles for managing products, cart, wishlist, and orders.
 
-<details>
-<summary>📁 Full project breakdown</summary>
-<br>
+`React` `Node.js` `Express` `MongoDB` `Multer` `Razorpay`
 
-- **[Todo-app](https://github.com/yaduykp123/Todo-app)** — task tracker built with HTML/CSS/JS
-- **[sample.test](https://github.com/yaduykp123/sample.test)** — [add description]
-
-</details>
+**Highlights:**
+- RESTful APIs with pagination, search, and filtering
+- Responsive UI with infinite scrolling and shimmer loading placeholders
+- Razorpay checkout integration
+- Secure state management and error handling across customer and admin dashboard workflows
 
 ---
 
@@ -73,15 +72,44 @@ React app with a "Switch Theme" button that toggles the background between light
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=next)
+![Redux](https://skillicons.dev/icons?i=redux)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
-**Tools**
+**Backend**
 
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Socket.io](https://skillicons.dev/icons?i=socketio)
+
+**Database**
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**Cloud & Tools**
+
+![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
-<!-- Add more as you learn them, e.g. i=nodejs,express,mongodb,ts,tailwind,figma -->
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## ⚡ How I Build
+
+`Client (React/Next.js)` → `Express Router` → `Middleware (Auth · RBAC · Validation)` → `Controller` → `Service Layer` → `MongoDB`
+
+- **Auth & Security** — JWT (access/refresh tokens), Axios interceptors, role-based access control, protected routes
+- **Background Jobs** — Cron Jobs + Nodemailer for automated email reminders
+- **Real-Time** — Socket.io for live notifications
+- **Payments & Media** — Razorpay checkout, Cloudinary media management, Multer file uploads
+- **UX Performance** — Infinite scrolling, Shimmer UI loading placeholders, API rate limiting
 
 ---
 
@@ -89,7 +117,7 @@ React app with a "Switch Theme" button that toggles the background between light
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yaduykp123&show_icons=true&theme=dark&hide_border=true)
+![Yadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaduykp123&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaduykp123&theme=dark&hide_border=true)
 
@@ -99,14 +127,15 @@ React app with a "Switch Theme" button that toggles the background between light
 
 ## 📚 Currently Learning
 
-![Learning 1](https://img.shields.io/badge/-Add%20Skill-black?style=flat)
-![Learning 2](https://img.shields.io/badge/-Add%20Skill-black?style=flat)
+![Next.js App Router](https://img.shields.io/badge/-Next.js%20App%20Router-black?style=flat)
+![System Design](https://img.shields.io/badge/-System%20Design-black?style=flat)
+![TypeScript](https://img.shields.io/badge/-Advanced%20TypeScript-black?style=flat)
 
 ---
 
 ## 🎯 Career Direction
 
-[One paragraph on where you're headed — e.g. "Growing into a full-stack developer with a focus on React and Node.js, building real-world projects to sharpen my skills."]
+Growing into a strong Full Stack / MERN Developer at the intersection of scalable backend architecture, real-time systems, and clean, production-ready frontend engineering.
 
 <div align="center">
 
