@@ -33,7 +33,7 @@ I'm skilled in crafting scalable RESTful APIs, role-based access control (RBAC),
 ## 🚀 Featured Projects
 
 ### 🥗 [expireOFF](#) — Food Waste Prevention E-Commerce Platform
-*[Frontend Repo](#) · [Backend Repo](#)*
+*[Live Demo](https://food-expireoff-d26823.netlify.app/) · [Frontend Repo](#) · [Backend Repo](#)*
 
 Full-stack MERN application enabling users and vendors to trade near-expiry products to curb food waste.
 
