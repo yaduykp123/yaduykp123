@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=50&lines=Hi+There!+I'm+Yadu+Krishnan+P;Full+Stack+MERN+Developer;Building+Scalable+Web+Apps" alt="Typing Header" />
 
 <p align="center">
-  <b>MERN Stack Developer at Bridgeon Solutions LLP</b>
+  <b>MERN Stack Developer</b>
 </p>
 
 <!-- Social & Contact Badges -->
@@ -46,5 +46,147 @@ const yadu = {
     "Razorpay Payment Gateway Integration"
   ],
   currentlyBuilding: "expireOFF — Food waste prevention e-commerce platform",
-  learning: "Next.js App Router patterns & System Design at scale"
+  learning: "Next.js App Router patterns & System Design at scale",
+  funFact: "I debug in my sleep 😴"
 };
+
+console.log(yadu);
+```
+
+- 🔭 Currently Completed **expireOFF** — a food waste prevention e-commerce platform
+- 🌱 Learning Next.js App Router patterns and system design at scale
+- 💬 Ask me about JWT auth & RBAC, Razorpay integration, or Socket.io real-time features
+- 📫 Reach me at **yaduykp123@gmail.com**
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 expireOFF
+**Food Waste Prevention E-Commerce Platform**
+
+[🔗 Live Demo](https://food-expireoff-d26823.netlify.app/)
+
+Full-stack MERN application enabling users and vendors to trade near-expiry products to curb food waste.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Cloudinary` `Socket.io`
+
+**Highlights:**
+- 🔐 Secure JWT auth with refresh tokens, protected routes, Axios interceptors
+- 🧑‍🤝‍🧑 Role-based access control (RBAC) for users and vendors
+- 💳 Razorpay payment gateway integration
+- ⏰ Automated email reminders via Cron Jobs & Nodemailer
+- 🔔 Real-time Socket.io notifications
+- 📍 Location-based product discovery & Cloudinary media uploads
+- 🛒 Cart management and order processing APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Shoply
+**Full Stack E-Commerce Platform**
+
+[🔗 Live Demo](https://e-commerce-app-shoply-git-master-yaduykp123s-projects.vercel.app/)
+
+Full-stack e-commerce system with distinct Admin and User roles for managing products, cart, wishlist, and orders.
+
+`React` `Node.js` `Express` `MongoDB` `Multer` `Razorpay`
+
+**Highlights:**
+- 🔍 RESTful APIs with pagination, search, and filtering
+- ♾️ Responsive UI with infinite scrolling & shimmer loading placeholders
+- 💳 Razorpay checkout integration
+- 🛡️ Secure state management and error handling across customer/admin dashboards
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind" alt="Frontend Stack" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" alt="Backend Stack" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=vercel,git,github,postman" alt="Tools" />
+
+<p>
+  <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+<br/>
+
+## ⚡ How I Build
+
+```
+Client (React/Next.js) → Express Router → Middleware (Auth · RBAC · Validation) → Controller → Service Layer → MongoDB
+```
+
+| Area | Approach |
+|---|---|
+| 🔐 **Auth & Security** | JWT (access/refresh tokens), Axios interceptors, RBAC, protected routes |
+| ⏱️ **Background Jobs** | Cron Jobs + Nodemailer for automated email reminders |
+| 🔔 **Real-Time** | Socket.io for live notifications |
+| 💳 **Payments & Media** | Razorpay checkout, Cloudinary media management, Multer file uploads |
+| 🚀 **UX Performance** | Infinite scrolling, Shimmer UI placeholders, API rate limiting |
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yaduykp123&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yadu's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaduykp123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=yaduykp123&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaduykp123&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+## 📚 Currently Learning
+
+<img src="https://img.shields.io/badge/-Next.js%20App%20Router-black?style=flat-square" alt="Next.js App Router" />
+<img src="https://img.shields.io/badge/-System%20Design-black?style=flat-square" alt="System Design" />
+<img src="https://img.shields.io/badge/-Advanced%20TypeScript-black?style=flat-square" alt="Advanced TypeScript" />
+
+<br/><br/>
+
+## 🎯 Career Direction
+
+Growing into a strong Full Stack / MERN Developer at the intersection of scalable backend architecture, real-time systems, and clean, production-ready frontend engineering.
+
+<br/>
+
+<div align="center">
+
+**Building · Learning · Shipping** 🚀
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a4e4-11eb-8058-d7824e0ad727.gif" width="100%" alt="Divider Line" />
+
+</div>
