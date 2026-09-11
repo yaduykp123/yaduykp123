@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=50&lines=Hi+There!+I'm+Yadu+Krishnan+P;Full+Stack+MERN+Developer;Building+Scalable+Web+Apps" alt="Typing Header" />
 
 <p align="center">
-  <b>MERN Stack Developer</b>
+  <b>MERN Stack Developer at Bridgeon Solutions LLP</b>
 </p>
 
 <!-- Social & Contact Badges -->
@@ -53,7 +53,7 @@ const yadu = {
 console.log(yadu);
 ```
 
-- 🔭 Currently Completed **expireOFF** — a food waste prevention e-commerce platform
+- 🔭 Currently building **expireOFF** — a food waste prevention e-commerce platform
 - 🌱 Learning Next.js App Router patterns and system design at scale
 - 💬 Ask me about JWT auth & RBAC, Razorpay integration, or Socket.io real-time features
 - 📫 Reach me at **yaduykp123@gmail.com**
@@ -120,7 +120,7 @@ Full-stack e-commerce system with distinct Admin and User roles for managing pro
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Database" />
 
 **Cloud & Tools**
 
@@ -130,6 +130,9 @@ Full-stack e-commerce system with distinct Admin and User roles for managing pro
   <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/-Razorpay-0C2451?style=flat&logo=razorpay&logoColor=white" alt="Razorpay" />
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 <br/>
@@ -163,7 +166,15 @@ Client (React/Next.js) → Express Router → Middleware (Auth · RBAC · Valida
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaduykp123&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+<!--
+  Activity graph tips if it doesn't render:
+  1. Username must match exactly (case-sensitive) and the account needs public commit activity.
+  2. The public vercel instance below gets rate-limited often — if it stays blank/404,
+     self-host it in 2 minutes: fork https://github.com/Ashutosh00710/github-readme-activity-graph,
+     deploy to your own Vercel account, then swap the domain below for your deployment URL.
+  3. Alternative theme names that tend to be more stable: "github-compact", "dracula", "high-contrast".
+-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaduykp123&theme=github-compact&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
