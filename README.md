@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=50&lines=Hi+There!+I'm+Yadu+Krishnan+P;Full+Stack+MERN+Developer;Building+Scalable+Web+Apps" alt="Typing Header" />
 
 <p align="center">
-  <b>MERN Stack Developer at Bridgeon Solutions LLP</b>
+  <b>MERN Stack Developer</b>
 </p>
 
 <!-- Social & Contact Badges -->
@@ -157,8 +157,22 @@ Client (React/Next.js) → Express Router → Middleware (Auth · RBAC · Valida
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaduykp123&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yadu's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaduykp123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+<!--
+  ⚠️ Why these use mirror URLs instead of github-readme-stats.vercel.app:
+  The official public instance (github-readme-stats.vercel.app) is currently returning
+  503 DEPLOYMENT_PAUSED — the maintainer paused the free demo deployment (tracked in
+  anuraghazra/github-readme-stats issues #4661, #4666, #4673). Same story for the
+  official github-readme-activity-graph.vercel.app instance.
+  Below uses live community mirrors as a stopgap. These can also go down since they're
+  someone else's free Vercel account — the PERMANENT fix is self-hosting (2 minutes, free):
+    1. Fork https://github.com/anuraghazra/github-readme-stats and
+       https://github.com/Ashutosh00710/github-readme-activity-graph
+    2. Import each fork into your own Vercel account (vercel.com → Add New → Project)
+    3. Replace the domains below with your own *.vercel.app deployment URLs
+  Once self-hosted, it never depends on someone else's rate limit or paused deployment again.
+-->
+<img src="https://helio-github-stats.vercel.app/api?username=yaduykp123&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yadu's GitHub Stats" height="165"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs/?username=yaduykp123&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 
 <br/>
 
@@ -166,15 +180,7 @@ Client (React/Next.js) → Express Router → Middleware (Auth · RBAC · Valida
 
 <br/>
 
-<!--
-  Activity graph tips if it doesn't render:
-  1. Username must match exactly (case-sensitive) and the account needs public commit activity.
-  2. The public vercel instance below gets rate-limited often — if it stays blank/404,
-     self-host it in 2 minutes: fork https://github.com/Ashutosh00710/github-readme-activity-graph,
-     deploy to your own Vercel account, then swap the domain below for your deployment URL.
-  3. Alternative theme names that tend to be more stable: "github-compact", "dracula", "high-contrast".
--->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yaduykp123&theme=github-compact&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=yaduykp123&theme=github-compact&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
