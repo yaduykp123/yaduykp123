@@ -115,7 +115,7 @@ Full-stack e-commerce system with distinct Admin and User roles for managing pro
 ### 🧑‍💻 Developer Portfolio
 **Static Site + Serverless AI Assistant**
 
-[🔗 Live Site](YOUR-PORTFOLIO-URL) · [📂 Source](https://github.com/yaduykp123/PortFolio)
+[🔗 Live Site](https://yaduykp123.github.io/PortFolio/) · [📂 Source](https://github.com/yaduykp123/PortFolio)
 
 Hand-built portfolio — no framework, no bundler. Vanilla HTML/CSS/JS with a Netlify Function handling AI requests so the API key never touches the client.
 
